@@ -5,7 +5,7 @@ import tkinter as tk
 import cv2
 from keras.models import load_model
 import numpy as np
-
+import pandas
 
 canvas_height = 450
 canvas_width = 450
